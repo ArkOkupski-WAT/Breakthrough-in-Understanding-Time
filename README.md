@@ -10,8 +10,8 @@
 ## Philosophical Physics Hypothesis
 
 **Author:** Arkadiusz Okupski  
-**Published:** Zenodo, 2024  
-**Cite as:** Okupski, A. (2024). Breakthrough in Understanding Time: How p-Gluon Geometry Explains Time Dilation and Reality's Programmable Nature. Zenodo. https://doi.org/10.5281/zenodo.17414897
+**Published:** Zenodo, 2025  
+**Cite as:** Okupski, A. (2025). Breakthrough in Understanding Time: How p-Gluon Geometry Explains Time Dilation and Reality's Programmable Nature. Zenodo. https://doi.org/10.5281/zenodo.17414897
 
 ## 📥 Quick Access
 - **📄 Full Paper:** [Download PDF](https://github.com/ArkOkupski-WAT/Breakthrough-in-Understanding-Time/raw/main/Breakthrough_in_Understanding_Time.pdf)
@@ -63,7 +63,7 @@ The author welcomes serious discussion, critical engagement, and collaborative d
 
 **Recommended citation:**
 ```bibtex
-@software{okupski_2024,
+@software{okupski_2025,
   author       = {Okupski, Arkadiusz},
   title        = {Breakthrough in Understanding Time: How p-Gluon 
                  Geometry Explains Time Dilation and Reality's 
