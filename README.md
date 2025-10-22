@@ -1,3 +1,5 @@
+**For comprehensive understanding of the hypothesis, reading the author's related works referenced in the bibliography is recommended.**
+
 # Breakthrough in Understanding Time: How p-Gluon Geometry Explains Time Dilation and Reality's Programmable Nature
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17414897-blue.svg)](https://doi.org/10.5281/zenodo.17414897)
@@ -46,6 +48,7 @@ This hypothesis presents several radical departures from mainstream physics:
 ## 📚 Important Note
 
 This work represents a **philosophical physics hypothesis** - a conceptual framework exploring fundamental questions through model-based reasoning rather than formal mathematical derivation. It aims to provide new perspectives and generate novel research directions in fundamental physics.
+
 
 ## 🔍 Core Concepts
 
