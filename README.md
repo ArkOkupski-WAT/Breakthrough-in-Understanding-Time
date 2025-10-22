@@ -1,27 +1,30 @@
 # Breakthrough in Understanding Time: How p-Gluon Geometry Explains Time Dilation and Reality's Programmable Nature
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17414897.svg)](https://doi.org/10.5281/zenodo.17414897)
-[![PDF Download](https://img.shields.io/badge/Download-PDF-blue.svg)](https://github.com/ArkOkupski-WAT/Breakthrough-in-Understanding-Time/raw/main/Breakthrough_in_Understanding_Time.pdf)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.17414897-blue.svg)](https://doi.org/10.5281/zenodo.17414897)
+
+[![PDF Download](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](https://github.com/ArkOkupski-WAT/Breakthrough-in-Understanding-Time/raw/main/Breakthrough_in_Understanding_Time.pdf)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Philosophical Physics Hypothesis
 
 **Author:** Arkadiusz Okupski  
-**License:** Creative Commons Attribution 4.0 International  
-**Status:** Published Concept Hypothesis
+**Published:** Zenodo, 2024  
+**Cite as:** Okupski, A. (2024). Breakthrough in Understanding Time: How p-Gluon Geometry Explains Time Dilation and Reality's Programmable Nature. Zenodo. https://doi.org/10.5281/zenodo.17414897
 
 ## 📥 Quick Access
-- **Full Paper PDF:** [Download Here](https://github.com/ArkOkupski-WAT/Breakthrough-in-Understanding-Time/raw/main/Breakthrough_in_Understanding_Time.pdf)
-- **Official DOI:** [10.5281/zenodo.17414897](https://doi.org/10.5281/zenodo.17414897)
-- **Repository:** [GitHub Project](https://github.com/ArkOkupski-WAT/Breakthrough-in-Understanding-Time)
+- **📄 Full Paper:** [Download PDF](https://github.com/ArkOkupski-WAT/Breakthrough-in-Understanding-Time/raw/main/Breakthrough_in_Understanding_Time.pdf)
+- **🔗 Official DOI:** [10.5281/zenodo.17414897](https://doi.org/10.5281/zenodo.17414897)
+- **💻 Repository:** [GitHub Project](https://github.com/ArkOkupski-WAT/Breakthrough-in-Understanding-Time)
+- **📚 Related Works:** [Author's Zenodo Profile](https://zenodo.org/search?page=1&size=20&q=Arkadiusz%20Okupski)
 
 ## Methodology: Thinking Through Models
 
 The author employs analogies, metaphors, and models constructed from accessible materials to build logically consistent thought structures aimed at visualizing and explaining the laws of physics. These conceptual models enable rich inferences - in this hypothesis, they explain phenomena such as:
 
-- **Why light speed represents a fundamental cosmic limit**
-- **Why matter approaching light speed increases its mass toward infinity**  
-- **The fundamental nature of time and its dilation**
-- **The resolution of the famous twin paradox**
+- 🚀 **Why light speed represents a fundamental cosmic limit**
+- ⚖️ **Why matter approaching light speed increases its mass toward infinity**  
+- ⏰ **The fundamental nature of time and its dilation**
+- 👥 **The resolution of the famous twin paradox**
 
 ## Core Philosophical Position
 
@@ -47,14 +50,23 @@ This work represents a **philosophical physics hypothesis** - a conceptual frame
 ## 🔍 Core Concepts
 
 - **p-Gluons**: Fundamental spacetime quanta as geometric "pixels"
-- **Structural vs Activation Energy**: Resolution of the cosmological constant problem
+- **Structural vs Activation Energy**: Resolution of the cosmological constant problem  
 - **Geometric Rendering**: Time as computational process in spacetime network
 - **Unified Dilation**: Single mechanism for both velocity and gravitational time effects
 
-## 💬 Discussion Welcome
+## 💬 Discussion & Citation
 
-The author welcomes serious discussion, critical engagement, and collaborative development of these concepts. This hypothesis is presented as a starting point for rethinking fundamental physics from a geometric-computational perspective.
+The author welcomes serious discussion, critical engagement, and collaborative development of these concepts. 
 
----
-
-*"Sometimes the most profound truths require us to step back from the mathematics and reconsider the very foundations of our understanding."* - Author
+**Recommended citation:**
+```bibtex
+@software{okupski_2024,
+  author       = {Okupski, Arkadiusz},
+  title        = {Breakthrough in Understanding Time: How p-Gluon 
+                 Geometry Explains Time Dilation and Reality's 
+                 Programmable Nature},
+  year         = 2024,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17414897},
+  url          = {https://doi.org/10.5281/zenodo.17414897}
+}
