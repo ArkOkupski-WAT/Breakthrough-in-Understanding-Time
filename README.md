@@ -68,7 +68,7 @@ The author welcomes serious discussion, critical engagement, and collaborative d
   title        = {Breakthrough in Understanding Time: How p-Gluon 
                  Geometry Explains Time Dilation and Reality's 
                  Programmable Nature},
-  year         = 2024,
+  year         = 2025,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.17414897},
   url          = {https://doi.org/10.5281/zenodo.17414897}
